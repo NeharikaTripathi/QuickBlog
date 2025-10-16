@@ -10,4 +10,5 @@ Features
 -  Admin dashboard for post management  
 -  Fully responsive design
 
-
+Live Demo:  
+https://quick-blog-fblruhwkj-neharika-tripathis-projects.vercel.app
