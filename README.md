@@ -1,1 +1,1 @@
-QuickBlog- Blog App
+**QuickBlog- Blog App**
